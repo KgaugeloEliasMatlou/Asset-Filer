@@ -10,4 +10,28 @@ If you changed the details in the above mentioned folders everything is ready to
 -> use the following credentials.
 -> Username => admin101
 -> Password => admin12345
+
+
 ![Home Page](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/8ddcf270-bab4-4d87-8fdf-f9b0c5fe0d59)
+
+
+![LogIn](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/5f97a13d-6901-4abd-a2b9-b219ae8643f4)
+
+
+![Dashboard](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/af62c000-f545-4d1f-9bb0-7381a1186a55)
+
+
+![Employee](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/2d9824f0-2247-4dab-8773-677afddebbcf)
+
+
+![create_employee](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/86cdf613-e63e-49d6-94b1-2bd17b77de1b)
+
+
+![vendors](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/bc1b8f71-aa6a-461c-81ba-1e27f907b1af)
+
+
+![create_vendor](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/4c789331-9253-4360-b21b-f1aebf5f49a9)
+
+
+
+

@@ -33,5 +33,13 @@ If you changed the details in the above mentioned folders everything is ready to
 ![create_vendor](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/4c789331-9253-4360-b21b-f1aebf5f49a9)
 
 
+![company_site](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/04b3c24f-70f4-4239-8bbd-195d012d95de)
+
+
+![create_company_site](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/40c9abb1-67bc-4bd7-8707-23fa09ab03a5)
+
+
+![admin](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/e77614e5-cc70-4e49-988d-2952e80803a0)
+
 
 

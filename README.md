@@ -10,3 +10,4 @@ If you changed the details in the above mentioned folders everything is ready to
 -> use the following credentials.
 -> Username => admin101
 -> Password => admin12345
+![Home Page](https://github.com/KgaugeloEliasMatlou/Asset-Filer/assets/106955892/8ddcf270-bab4-4d87-8fdf-f9b0c5fe0d59)
